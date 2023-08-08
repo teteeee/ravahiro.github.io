@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3162001646
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 99574719d7ac5c0f5a2b54add8b064d3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/CardImage/150.png
+Dependencies: []

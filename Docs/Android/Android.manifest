@@ -1,0 +1,613 @@
+ManifestFileVersion: 0
+CRC: 3511225993
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: carddata1
+      Dependencies: {}
+    Info_1:
+      Name: 000_cardback_gd_2
+      Dependencies: {}
+    Info_2:
+      Name: 001
+      Dependencies: {}
+    Info_3:
+      Name: 002
+      Dependencies: {}
+    Info_4:
+      Name: 003
+      Dependencies: {}
+    Info_5:
+      Name: 004
+      Dependencies: {}
+    Info_6:
+      Name: 005
+      Dependencies: {}
+    Info_7:
+      Name: 006
+      Dependencies: {}
+    Info_8:
+      Name: 007
+      Dependencies: {}
+    Info_9:
+      Name: 008
+      Dependencies: {}
+    Info_10:
+      Name: 009
+      Dependencies: {}
+    Info_11:
+      Name: 010
+      Dependencies: {}
+    Info_12:
+      Name: 011
+      Dependencies: {}
+    Info_13:
+      Name: 012
+      Dependencies: {}
+    Info_14:
+      Name: 013
+      Dependencies: {}
+    Info_15:
+      Name: 014
+      Dependencies: {}
+    Info_16:
+      Name: 015
+      Dependencies: {}
+    Info_17:
+      Name: 016
+      Dependencies: {}
+    Info_18:
+      Name: 017
+      Dependencies: {}
+    Info_19:
+      Name: 018
+      Dependencies: {}
+    Info_20:
+      Name: 019
+      Dependencies: {}
+    Info_21:
+      Name: 020
+      Dependencies: {}
+    Info_22:
+      Name: 021
+      Dependencies: {}
+    Info_23:
+      Name: 022
+      Dependencies: {}
+    Info_24:
+      Name: 023
+      Dependencies: {}
+    Info_25:
+      Name: 024
+      Dependencies: {}
+    Info_26:
+      Name: 025
+      Dependencies: {}
+    Info_27:
+      Name: 026
+      Dependencies: {}
+    Info_28:
+      Name: 027
+      Dependencies: {}
+    Info_29:
+      Name: 028
+      Dependencies: {}
+    Info_30:
+      Name: 029
+      Dependencies: {}
+    Info_31:
+      Name: 030
+      Dependencies: {}
+    Info_32:
+      Name: 031
+      Dependencies: {}
+    Info_33:
+      Name: 032
+      Dependencies: {}
+    Info_34:
+      Name: 033
+      Dependencies: {}
+    Info_35:
+      Name: 034
+      Dependencies: {}
+    Info_36:
+      Name: 035
+      Dependencies: {}
+    Info_37:
+      Name: 036
+      Dependencies: {}
+    Info_38:
+      Name: 037
+      Dependencies: {}
+    Info_39:
+      Name: 038
+      Dependencies: {}
+    Info_40:
+      Name: 039
+      Dependencies: {}
+    Info_41:
+      Name: 040
+      Dependencies: {}
+    Info_42:
+      Name: 041
+      Dependencies: {}
+    Info_43:
+      Name: 042
+      Dependencies: {}
+    Info_44:
+      Name: 043
+      Dependencies: {}
+    Info_45:
+      Name: 044
+      Dependencies: {}
+    Info_46:
+      Name: 045
+      Dependencies: {}
+    Info_47:
+      Name: 046
+      Dependencies: {}
+    Info_48:
+      Name: 047
+      Dependencies: {}
+    Info_49:
+      Name: 048
+      Dependencies: {}
+    Info_50:
+      Name: 049
+      Dependencies: {}
+    Info_51:
+      Name: 050
+      Dependencies: {}
+    Info_52:
+      Name: 051
+      Dependencies: {}
+    Info_53:
+      Name: 052
+      Dependencies: {}
+    Info_54:
+      Name: 053
+      Dependencies: {}
+    Info_55:
+      Name: 054
+      Dependencies: {}
+    Info_56:
+      Name: 055
+      Dependencies: {}
+    Info_57:
+      Name: 056
+      Dependencies: {}
+    Info_58:
+      Name: 057
+      Dependencies: {}
+    Info_59:
+      Name: 058
+      Dependencies: {}
+    Info_60:
+      Name: 059
+      Dependencies: {}
+    Info_61:
+      Name: 060
+      Dependencies: {}
+    Info_62:
+      Name: 061
+      Dependencies: {}
+    Info_63:
+      Name: 062
+      Dependencies: {}
+    Info_64:
+      Name: 063
+      Dependencies: {}
+    Info_65:
+      Name: 064
+      Dependencies: {}
+    Info_66:
+      Name: 065
+      Dependencies: {}
+    Info_67:
+      Name: 066
+      Dependencies: {}
+    Info_68:
+      Name: 067
+      Dependencies: {}
+    Info_69:
+      Name: 068
+      Dependencies: {}
+    Info_70:
+      Name: 069
+      Dependencies: {}
+    Info_71:
+      Name: 070
+      Dependencies: {}
+    Info_72:
+      Name: 071
+      Dependencies: {}
+    Info_73:
+      Name: 072
+      Dependencies: {}
+    Info_74:
+      Name: 073
+      Dependencies: {}
+    Info_75:
+      Name: 074
+      Dependencies: {}
+    Info_76:
+      Name: 075
+      Dependencies: {}
+    Info_77:
+      Name: 076
+      Dependencies: {}
+    Info_78:
+      Name: 077
+      Dependencies: {}
+    Info_79:
+      Name: 078
+      Dependencies: {}
+    Info_80:
+      Name: 079
+      Dependencies: {}
+    Info_81:
+      Name: 080
+      Dependencies: {}
+    Info_82:
+      Name: 081
+      Dependencies: {}
+    Info_83:
+      Name: 082
+      Dependencies: {}
+    Info_84:
+      Name: 083
+      Dependencies: {}
+    Info_85:
+      Name: 084
+      Dependencies: {}
+    Info_86:
+      Name: 085
+      Dependencies: {}
+    Info_87:
+      Name: 086
+      Dependencies: {}
+    Info_88:
+      Name: 087
+      Dependencies: {}
+    Info_89:
+      Name: 088
+      Dependencies: {}
+    Info_90:
+      Name: 089
+      Dependencies: {}
+    Info_91:
+      Name: 090
+      Dependencies: {}
+    Info_92:
+      Name: 091
+      Dependencies: {}
+    Info_93:
+      Name: 092
+      Dependencies: {}
+    Info_94:
+      Name: 093
+      Dependencies: {}
+    Info_95:
+      Name: 094
+      Dependencies: {}
+    Info_96:
+      Name: 095
+      Dependencies: {}
+    Info_97:
+      Name: 096
+      Dependencies: {}
+    Info_98:
+      Name: 097
+      Dependencies: {}
+    Info_99:
+      Name: 098
+      Dependencies: {}
+    Info_100:
+      Name: 099
+      Dependencies: {}
+    Info_101:
+      Name: 100
+      Dependencies: {}
+    Info_102:
+      Name: 101
+      Dependencies: {}
+    Info_103:
+      Name: 102
+      Dependencies: {}
+    Info_104:
+      Name: 103
+      Dependencies: {}
+    Info_105:
+      Name: 104
+      Dependencies: {}
+    Info_106:
+      Name: 105
+      Dependencies: {}
+    Info_107:
+      Name: 106
+      Dependencies: {}
+    Info_108:
+      Name: 107
+      Dependencies: {}
+    Info_109:
+      Name: 108
+      Dependencies: {}
+    Info_110:
+      Name: 109
+      Dependencies: {}
+    Info_111:
+      Name: 110
+      Dependencies: {}
+    Info_112:
+      Name: 111
+      Dependencies: {}
+    Info_113:
+      Name: 112
+      Dependencies: {}
+    Info_114:
+      Name: 113
+      Dependencies: {}
+    Info_115:
+      Name: 114
+      Dependencies: {}
+    Info_116:
+      Name: 115
+      Dependencies: {}
+    Info_117:
+      Name: 116
+      Dependencies: {}
+    Info_118:
+      Name: 117
+      Dependencies: {}
+    Info_119:
+      Name: 118
+      Dependencies: {}
+    Info_120:
+      Name: 119
+      Dependencies: {}
+    Info_121:
+      Name: 120
+      Dependencies: {}
+    Info_122:
+      Name: 121
+      Dependencies: {}
+    Info_123:
+      Name: 122
+      Dependencies: {}
+    Info_124:
+      Name: 123
+      Dependencies: {}
+    Info_125:
+      Name: 124
+      Dependencies: {}
+    Info_126:
+      Name: 125
+      Dependencies: {}
+    Info_127:
+      Name: 126
+      Dependencies: {}
+    Info_128:
+      Name: 127
+      Dependencies: {}
+    Info_129:
+      Name: 128
+      Dependencies: {}
+    Info_130:
+      Name: 129
+      Dependencies: {}
+    Info_131:
+      Name: 130
+      Dependencies: {}
+    Info_132:
+      Name: 131
+      Dependencies: {}
+    Info_133:
+      Name: 132
+      Dependencies: {}
+    Info_134:
+      Name: 133
+      Dependencies: {}
+    Info_135:
+      Name: 134
+      Dependencies: {}
+    Info_136:
+      Name: 135
+      Dependencies: {}
+    Info_137:
+      Name: 136
+      Dependencies: {}
+    Info_138:
+      Name: 137
+      Dependencies: {}
+    Info_139:
+      Name: 138
+      Dependencies: {}
+    Info_140:
+      Name: 139
+      Dependencies: {}
+    Info_141:
+      Name: 140
+      Dependencies: {}
+    Info_142:
+      Name: 141
+      Dependencies: {}
+    Info_143:
+      Name: 142
+      Dependencies: {}
+    Info_144:
+      Name: 143
+      Dependencies: {}
+    Info_145:
+      Name: 144
+      Dependencies: {}
+    Info_146:
+      Name: 145
+      Dependencies: {}
+    Info_147:
+      Name: 146
+      Dependencies: {}
+    Info_148:
+      Name: 147
+      Dependencies: {}
+    Info_149:
+      Name: 148
+      Dependencies: {}
+    Info_150:
+      Name: 149
+      Dependencies: {}
+    Info_151:
+      Name: 150
+      Dependencies: {}
+    Info_152:
+      Name: 151
+      Dependencies: {}
+    Info_153:
+      Name: 152
+      Dependencies: {}
+    Info_154:
+      Name: 153
+      Dependencies: {}
+    Info_155:
+      Name: 154
+      Dependencies: {}
+    Info_156:
+      Name: 155
+      Dependencies: {}
+    Info_157:
+      Name: 156
+      Dependencies: {}
+    Info_158:
+      Name: 157
+      Dependencies: {}
+    Info_159:
+      Name: 158
+      Dependencies: {}
+    Info_160:
+      Name: 159
+      Dependencies: {}
+    Info_161:
+      Name: 160
+      Dependencies: {}
+    Info_162:
+      Name: 161
+      Dependencies: {}
+    Info_163:
+      Name: 162
+      Dependencies: {}
+    Info_164:
+      Name: 163
+      Dependencies: {}
+    Info_165:
+      Name: 164
+      Dependencies: {}
+    Info_166:
+      Name: 165
+      Dependencies: {}
+    Info_167:
+      Name: 166
+      Dependencies: {}
+    Info_168:
+      Name: 167
+      Dependencies: {}
+    Info_169:
+      Name: 168
+      Dependencies: {}
+    Info_170:
+      Name: 169
+      Dependencies: {}
+    Info_171:
+      Name: 170
+      Dependencies: {}
+    Info_172:
+      Name: 171
+      Dependencies: {}
+    Info_173:
+      Name: 172
+      Dependencies: {}
+    Info_174:
+      Name: 173
+      Dependencies: {}
+    Info_175:
+      Name: 174
+      Dependencies: {}
+    Info_176:
+      Name: 175
+      Dependencies: {}
+    Info_177:
+      Name: 176
+      Dependencies: {}
+    Info_178:
+      Name: 177
+      Dependencies: {}
+    Info_179:
+      Name: 178
+      Dependencies: {}
+    Info_180:
+      Name: 179
+      Dependencies: {}
+    Info_181:
+      Name: 180
+      Dependencies: {}
+    Info_182:
+      Name: 181
+      Dependencies: {}
+    Info_183:
+      Name: 182
+      Dependencies: {}
+    Info_184:
+      Name: 183
+      Dependencies: {}
+    Info_185:
+      Name: 184
+      Dependencies: {}
+    Info_186:
+      Name: 185
+      Dependencies: {}
+    Info_187:
+      Name: 186
+      Dependencies: {}
+    Info_188:
+      Name: 187
+      Dependencies: {}
+    Info_189:
+      Name: 188
+      Dependencies: {}
+    Info_190:
+      Name: 189
+      Dependencies: {}
+    Info_191:
+      Name: 190
+      Dependencies: {}
+    Info_192:
+      Name: 191
+      Dependencies: {}
+    Info_193:
+      Name: 192
+      Dependencies: {}
+    Info_194:
+      Name: 193
+      Dependencies: {}
+    Info_195:
+      Name: 194
+      Dependencies: {}
+    Info_196:
+      Name: 195
+      Dependencies: {}
+    Info_197:
+      Name: 196
+      Dependencies: {}
+    Info_198:
+      Name: 197
+      Dependencies: {}
+    Info_199:
+      Name: 198
+      Dependencies: {}
+    Info_200:
+      Name: 199
+      Dependencies: {}
+    Info_201:
+      Name: 200
+      Dependencies: {}
+    Info_202:
+      Name: noset
+      Dependencies: {}
